@@ -1,0 +1,45 @@
+papers:
+
+  - title: "Learning cognitive maps for vicarious evaluation"
+    authors: "<b>RV Rikhye</b>, N Gothoskar, JS Guntupalli, A Dedieu, M Lazaro-Gredilla, D George"
+    venue: "Cerebral Cortex 30(2) 2020"
+    paper_pdf: "/assets/publications/rikhye_clones.pdf"
+    preprint: "https://www.biorxiv.org/content/10.1101/864421v2.abstract"
+    selected: y
+
+  - title: "Prefrontal computation as active inference"
+    authors: "T. Parr <b>RV Rikhye</b>, MM Halassa, K. Friston"
+    venue: "Cerebral Cortex 30(2) 2020"
+    paper_pdf: "/assets/publications/parr_et_al.pdf"
+    selected: y
+
+  - title: "Thalamic regulation of switching between cortical representations enables cognitive flexibility"
+    authors: "<b>RV Rikhye</b>, A Gilra, MM Halassa"
+    venue: "Nature Neuroscience 21(12) 2018"
+    code: "https://github.com/toxine4610/ThalamusContextSwitchingCode"
+    paper_pdf: "/assets/publications/rikhye_nature_neuroscience.pdf"
+    selected: y
+
+  - title: "Toward an integrative theory of thalamic function"
+    authors: "<b>RV Rikhye</b>, RD Wimmer, MM Halassa"
+    venue: "Annual Reviews in Neuroscience 41 2018"
+    paper_pdf: "/assets/publications/rikhye_annual_reviews.pdf"
+    selected: y
+
+  - title: "Reliable sensory processing in mouse visual cortex through inhibitory interactions between Somatostatin and Parvalbumin interneurons"
+    authors: "<b>RV Rikhye</b>, M Yildirim, V Breton-Provencher, M Hu, M Sur"
+    preprint: "https://www.biorxiv.org/content/biorxiv/early/2017/09/11/187062.full.pdf"
+    paper_pdf: "/assets/publications/rikhye_reliab.pdf"
+    selected: y
+
+  - title: "Jointly reduced inhibition and excitation underlies circuit-wide changes in cortical processing in Rett syndrome"
+    authors: "A Banerjee, <b>RV Rikhye</b>, V Breton-Provencher, C Li, K, Li, M Sur"
+    venue: "Proceedings of the National Academy of Sciences 113 (46) 2016"
+    paper_pdf: "/assets/publications/rikhye_pnas.pdf"
+    selected: y
+
+  - title: "Spatial Correlations in Natural Scenes Modulate Response Reliability in Mouse Visual Cortex"
+    authors: "<b>RV Rikhye</b>, M Sur"
+    venue: "The Journal of Neuroscience 35(43) 2015"
+    paper_pdf: "/assets/publications/rikhye_jns.pdf"
+    selected: y

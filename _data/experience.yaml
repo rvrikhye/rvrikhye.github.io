@@ -1,0 +1,37 @@
+experiences:
+  
+- place: "Google Research"
+  time: "2020 - Present"
+  title: "Machine Learning Engineer"
+  subtitle: ""
+  category: "work"
+
+- place: "Vicarious AI"
+  time: "2018 - 2020"
+  title: "Researcher"
+  subtitle: ""
+  category: "work"
+
+- place: "MIT"
+  time: "2017 - 2018"
+  title: "Postdoctoral Associate"
+  subtitle: ""
+  category: "work"
+
+- place: "HHMI/Janelia Research Campus"
+  time: "2016 - 2017"
+  title: "Research Specialist"
+  subtitle: ""
+  category: "work"
+
+- place: "MIT"
+  time: "2011 - 2016"
+  title: "Ph.D. in Neuroscience"
+  subtitle: "Advisor: Prof. Mriganka Sur"
+  category: "school"
+
+- place: "Imperial College London"
+  time: "2006 - 2010"
+  title: "M. Eng. in Biomedical Engineering"
+  subtitle: "minor: Electrical Engineering, with a year at MIT"
+  category: "school"
