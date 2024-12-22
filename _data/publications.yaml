@@ -50,3 +50,18 @@ papers:
     venue: "The Journal of Neuroscience 35(43) 2015"
     paper_pdf: "/assets/publications/rikhye_jns.pdf"
     selected: y
+
+health_ai_papers:
+
+  - title: "Differences Between Patient and Clinician-Taken Images: Implications for Virtual Care of Skin Conditions"
+    authors: "<b>RV Rikhye</b>, et al."
+    venue: "Mayo Clinic Proceedings: Digital Health 2 (1), 2024"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2949761224000063"
+    selected: y
+
+  - title: "Closing the AI generalization gap by adjusting for dermatology condition distribution differences across clinical settings"
+    authors: "<b>RV Rikhye</b>, et al."
+    venue: "Lancet eBiomedicine"
+    preprint: "https://arxiv.org/pdf/2402.15566"
+    selected: y
+
