@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Reinforcement-guided learning in frontal neocortex: emerging computational concepts"
+    authors: "Abhishek Banerjee, <b>Rajeev V Rikhye</b>, Adam Marblestone"
+    venue: "Current Opinion in Behavioral Sciences 328, 2021"
+    preprint: "https://drive.google.com/file/d/1wtkIrq15Vx8ml9HTuXPlAz_wwnHfXhk8/view"
+    selected: y
+    
   - title: "Learning cognitive maps for vicarious evaluation"
     authors: "<b>RV Rikhye</b>, N Gothoskar, JS Guntupalli, A Dedieu, M Lazaro-Gredilla, D George"
     venue: "Cerebral Cortex 30(2) 2020"
