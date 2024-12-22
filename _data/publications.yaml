@@ -28,7 +28,8 @@ papers:
 
   - title: "Reliable sensory processing in mouse visual cortex through inhibitory interactions between Somatostatin and Parvalbumin interneurons"
     authors: "<b>RV Rikhye</b>, M Yildirim, V Breton-Provencher, M Hu, M Sur"
-    preprint: "https://www.biorxiv.org/content/biorxiv/early/2017/09/11/187062.full.pdf"
+    venue: "The Journal of Neuroscience 41 (42), 2021"
+    preprint: "https://www.jneurosci.org/content/jneuro/41/42/8761.full.pdf"
     paper_pdf: "/assets/publications/rikhye_reliab.pdf"
     selected: y
 
