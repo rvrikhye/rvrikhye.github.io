@@ -1,7 +1,25 @@
 experiences:
+
+- place: "Google DeepMind"
+  time: "2024 - Present"
+  title: "Senior Machine Learning Engineer"
+  subtitle: ""
+  category: "work"
+
+- place: "Apple AIML, Health AI"
+  time: "2024 - 2024"
+  title: "Senior Research Scientist"
+  subtitle: ""
+  category: "work"
+
+- place: "Google Research, Health AI"
+  time: "2021 - 2024"
+  title: "Senior Machine Learning Engineer"
+  subtitle: ""
+  category: "work"
   
-- place: "Google Research"
-  time: "2020 - Present"
+- place: "Google"
+  time: "2020 - 2021"
   title: "Machine Learning Engineer"
   subtitle: ""
   category: "work"
