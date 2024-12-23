@@ -5,6 +5,12 @@ papers:
     venue: "Current Opinion in Behavioral Sciences 328, 2021"
     preprint: "https://drive.google.com/file/d/1wtkIrq15Vx8ml9HTuXPlAz_wwnHfXhk8/view"
     selected: y
+
+  - title: "Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps"
+    authors: "Dileep George, <b>Rajeev V Rikhye</b>, Nishad Gothoskar, J Swaroop Guntupalli, Antoine Dedieu, Miguel Lázaro-Gredilla"
+    venue: "Nature Communications 12(1), 2021"
+    paper_pdf: "https://www.nature.com/articles/s41467-021-22559-5"
+    selected: y
     
   - title: "Learning cognitive maps for vicarious evaluation"
     authors: "<b>RV Rikhye</b>, N Gothoskar, JS Guntupalli, A Dedieu, M Lazaro-Gredilla, D George"
@@ -65,3 +71,33 @@ health_ai_papers:
     preprint: "https://arxiv.org/pdf/2402.15566"
     selected: y
 
+speech_papers:
+  - title: "Personalized keyphrase detection using speaker and environment information"
+    authors: "<b>RV Rikhye</b>, Quan Wang, Qiao Liang, Yanzhang He, Ding Zhao, Arun Narayanan, Ian McGraw"
+    venue: "INTERSPEECH 2021"
+    preprint: "https://arxiv.org/pdf/2104.13970"
+    selected: y
+
+  - title: "Multi-user VoiceFilter-Lite via attentive speaker embedding"
+    authors: "<b>RV Rikhye</b>, Quan Wang, Qiao Liang, Yanzhang He, Ian McGraw"
+    venue: "IEEE ASRU 2021"
+    preprint: "https://arxiv.org/pdf/2107.01201"
+    selected: y
+
+  - title: "Closing the gap between single-user and multi-user voicefilter-lite"
+    authors: "<b>RV Rikhye</b>, Quan Wang, Qiao Liang, Yanzhang He, Ian McGraw"
+    venue: "IEEE ASRU 2022"
+    preprint: "https://arxiv.org/pdf/2202.12169"
+    selected: y
+
+  - title: "Personal VAD 2.0: Optimizing personal voice activity detection for on-device speech recognition"
+    authors: "Shaojin Ding, <b>Rajeev Rikhye</b>, Qiao Liang, Yanzhang He, Quan Wang, Arun Narayanan, Tom O'Malley, Ian McGraw"
+    venue: "INTERSPEECH 2022"
+    preprint: "https://arxiv.org/pdf/2204.03793"
+    selected: y
+
+  - title: "Conditional Conformer: Improving Speaker Modulation For Single And Multi-User Speech Enhancement"
+    authors: "Tom O’Malley, Shaojin Ding, Arun Narayanan, Quan Wang, <b>Rajeev Rikhye</b>, Qiao Liang, Yanzhang He, Ian McGraw"
+    venue: "ICASSP 2022"
+    preprint: "https://ieeexplore.ieee.org/abstract/document/10095369"
+    selected: y
